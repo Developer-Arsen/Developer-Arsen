@@ -17,13 +17,10 @@
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="aws" width="40" height="40"/></a>
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" alt="gcp" width="40" height="40"/></a>
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ansible.svg" alt="ansible" width="40" height="40"/></a>
-  <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform.svg" alt="terraform" width="40" height="40"/></a>
-  <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana.svg" alt="grafana" width="40" height="40"/></a>
+  <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Light.svg" alt="terraform" width="40" height="40"/></a>
+  <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Light.svg" alt="grafana" width="40" height="40"/></a>
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" alt="prometheus" width="40" height="40"/></a>
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" alt="jenkins" width="40" height="40"/></a>
-  <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CI-CD.svg" alt="ci/cd" width="40" height="40"/></a>
-  <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Datadog-Dark.svg" alt="datadog" width="40" height="40"/></a>
-  <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PagerDuty-Dark.svg" alt="pagerduty" width="40" height="40"/></a>
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="bash" width="40" height="40"/></a>
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" alt="prisma" style="border-radius: 30%;" width="40" height="40"/></a> 
 </p>
