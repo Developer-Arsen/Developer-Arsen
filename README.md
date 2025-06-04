@@ -21,8 +21,6 @@
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Light.svg" alt="grafana" width="40" height="40"/></a>
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" alt="prometheus" width="40" height="40"/></a>
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" alt="jenkins" width="40" height="40"/></a>
-  <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="bash" width="40" height="40"/></a>
-  <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" alt="prisma" style="border-radius: 30%;" width="40" height="40"/></a> 
 </p>
 
 <h3>:bar_chart: GitHub Stats:</h3>
